@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jojoparra
 - 👀 I’m interested in programming and coding!
-- 🌱 I’m currently learning how to code. 
-- 💞️ I’m looking to collaborate on coding LOL. 
+- 🌱 I’m a transitioning teacher self-learning how to code. 
+- 💞️ I’m looking to collaborate and get advice on my coding LOL. 
 - 📫 How to reach me by messaging on here. 
 
 <!---
